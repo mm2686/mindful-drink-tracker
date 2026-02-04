@@ -35,3 +35,4 @@ This app is provided as a tool for personal wellness and reflection.
 
 ---
 *Created with care by Martin Moser. Inspired by Rosamund Dean.*
+ 
